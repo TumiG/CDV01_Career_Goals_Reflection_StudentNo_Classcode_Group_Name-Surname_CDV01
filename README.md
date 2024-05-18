@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Tumisang Ganyane 
+- **Date:5/17/2024
+- **Current Role/Position:Service Delivery Consultant 
+- **Field of Interest: Software Development 
 
 ### Part 1: Self-Assessment Reflection
 
@@ -28,53 +28,90 @@ By completing this reflection, you will gain a clearer understanding of your car
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    -My key interests are having the ability to build, structure and design something meaningful that people use on a daily basis. This is one of the reasons I started at CodeSpace
+   as I have always been passionate about seeing something be built from the ground up and to see how your creation ca help make other peoples lives easier and to see the enoyment
+   they have using something you built.
+   
+    - My values in a work environment is respect, honesty and teamwork. I feel that in any work environment, it is important to respect your other team members, be honest and true to yourself
+     and to have each others back if things do not go well. The ability to help each other is also very important.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - I have researched roles such as Junior software Developmer being the main role and the industries range from engineering to manufacturing.
+    - My interest has always been there due to working as a support consultant at an IT company, I am surrounded by developers and I have always had a keen interest to grow in my field and to be
+      a part of the development side of things.
+      
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - These roles align with my interests as they all have a need for software development and opportunities in the field. My love for design also help me as it keeps me motivated to produce
+      and develop the best designed product out there.
+    - One gap is software engineering and also being in Data. 
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    - List your specific, measurable, achievable, relevant, and time-bound goals:
+    - To move up the ranks in my company to be a junior software developer in the next year.
+    - to complete this course successfully.
+    - To gain understanding and knowledge on systems and to gain the ecessary skills to be a viable candidate in any company 
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
+    - Outline your long-term career aspiration:
+    - To be skilled enough to start my own side hustle as a developer.
+    - To start making a living off my career and to be promoted to an intermediate position within the next three years.
+    - In the next 5 years, to have started my own company where I will be a full stacked software and web developer.
     - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal:
+    - 2 hours of practice everyday.
+    - Understanding and not crammming but actually being able to explain certain concepts and reasons for writing my code the way I ave written it.
+    - Doing my own external reseaech and go above and beyond the course content.
+    
+   - Include any resources or support required:
+   - Extra hours during weekends and after work.
+   - Additional one on one sessions to help explain certain terms further.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Describe the preparations or groundwork necessary for your long-term aspirations:
+    - PRACTICE, PRACTICE, PRACTICE.
+    - Achieving and smashing my short term goals.
+    - Ensuring I have done enough reseaerch to see what it takes and putting in the hours.
+      
+    - Consider additional skills, experiences, or qualifications needed:
+    - Work and real life experience (internship or entry level position)
+    - Microsoft certifications to be more certified and qualified.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Identify potential obstacles or challenges in reaching your goals:
+    - Time.
+    - Work.
+    - Keeping up with the pace of all the courses.
+    - Feeling unmotivated when mistakes happen as they will be a lot of mistakes in the journey.
+      
+    - Consider strategies to overcome these challenges:
+    - Better time management.
+    - Morivating myself and finding other sources of motivation when it gets difficult.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Highlight any opportunities you can leverage for career growth:
+    - Leaning on work colleagues that have experience in the field as I do work a lot with developers but from a support perspective.
+    - Additional courses on Udemy etc.
+    - Working better to fully understand concepts and putting in a minimum of 2 hours a day.
+      
+    - Include networking, mentorship, or educational opportunities:
+    - Leaning and building a relationship with my CodSpace coach as well as other students to help out whe times are tough.
+    - Getting additional courses on platforms such as Udemy.
 
 ### Submission
 
